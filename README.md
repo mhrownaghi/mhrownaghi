@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohammad Hosein Ronaghi
 - 👀 I’m interested in progamming language and finding problem solution.
 - 👀 I have a bachelor’s degree in computer engineering from the Islamic Azad University, Central Tehran Branch.
-- 🌱 I’m currently learning responsive website design and Javascript programming language.
-- 💞️ I’m looking to collaborate on javascript projects.
+- 🌱 I’m currently learning responsive website design and PHP programming language.
+- 💞️ I’m looking to collaborate on PHP projects.
 - 📫 Email: mhrownaghi@gmail.com
 
 <!---
